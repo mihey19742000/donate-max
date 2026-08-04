@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+httpx
+maxapi==1.2.3
